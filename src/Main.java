@@ -35,7 +35,7 @@ public class Main {
 //        String[] word2 = {"ab","c"};
 //        String[] word1 = {"ab", "c"};
 //        String[] word2 = {"a","bc"};
-        System.out.println(a.arrayStringsAreEqual(word1, word2));
+//        System.out.println(a.arrayStringsAreEqual(word1, word2));
 
     }
 }
