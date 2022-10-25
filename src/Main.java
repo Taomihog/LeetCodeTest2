@@ -14,16 +14,28 @@ public class Main {
 //        obj.update(4,2);
 //        System.out.println(obj.minimum());
 //        obj.printAll();
-        LC1239 a = new LC1239();
-        List<String> list = new ArrayList<String>();
-        list.add("zog");
-        list.add("nvwsuikgndmfexxgjtkb");
-        list.add("nxko");
+
+        //1239
+//        LC1239 a = new LC1239();
+//        List<String> list = new ArrayList<String>();
+//        list.add("zog");
+//        list.add("nvwsuikgndmfexxgjtkb");
+//        list.add("nxko");
 //        list.add("cha");
 //        list.add("r");
 //        list.add("act");
 //        list.add("ers");
-        a.maxLength(list);
+//        a.maxLength(list);
+
+        //1662
+        LC1662 a = new LC1662();
+//        String[] word1 = {"abc", "d", "defg"};
+//        String[] word2 = {"abcddefg"};
+//        String[] word1 = {"a", "cb"};
+//        String[] word2 = {"ab","c"};
+//        String[] word1 = {"ab", "c"};
+//        String[] word2 = {"a","bc"};
+        System.out.println(a.arrayStringsAreEqual(word1, word2));
 
     }
 }
